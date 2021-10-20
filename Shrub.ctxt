@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Shrub
+comment0.text=\n\ Write\ a\ description\ of\ class\ Shrub\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Shrub()
+comment2.params=size
+comment2.target=Shrub(int)
+comment3.params=size
+comment3.target=void\ setSize(int)
+comment4.params=
+comment4.target=int\ getSize()
+numComments=5

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Hero
+comment0.text=\n\ Write\ a\ description\ of\ class\ Hero\ here.\n\ \n\ @\ Mikal\ Eddlemon\ &\ Warren\ Wright\n\ @\ May\ 12th,\ 2021\n
+comment1.params=
+comment1.target=Hero()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Hero\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=
+comment3.target=void\ checkKeyPress()
+comment4.params=
+comment4.target=void\ checkCollision()
+comment5.params=
+comment5.target=void\ fire()
+numComments=6

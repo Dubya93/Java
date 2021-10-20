@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=SmoothMover
+comment0.text=\n\ A\ variation\ of\ an\ actor\ that\ maintains\ precise\ location\ (using\ doubles\ for\ the\ co-ordinates\n\ instead\ of\ ints).\ It\ also\ maintains\ a\ current\ velocity\ in\ form\ of\ a\ velocity\ vector.\n\ \n\ This\ is\ a\ variation\ of\ the\ SmoothMover\ class\ presented\ ealier\ in\ the\ book\ (version\ 2.0).\n\ This\ version\ implements\ wrap-around\ movement\:\ when\ the\ actor\ moves\ out\ of\ the\ world\ at\ one\n\ side,\ it\ enters\ it\ again\ at\ the\ opposite\ edge.\n\ \n\ @author\ Poul\ Henriksen\n\ @author\ Michael\ K\u00F6lling\n\ \n\ @version\ 2.3\n
+comment1.params=
+comment1.target=SmoothMover()
+numComments=2

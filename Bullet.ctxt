@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Bullet
+comment0.text=\n\ Write\ a\ description\ of\ class\ Bullet\ here.\n\ \n\ Mikal\ Eddlemon\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Bullet()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Bullet\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkZombieHit()
+numComments=4

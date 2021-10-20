@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=ZombieLand
+comment0.text=\n\ ZombieLand\ the\ Game\ is\ set\ in\ a\ green\ field\ with\ zombies\ always\ spawning.\ Shoot\ them\ to\ increase\ your\ score.\ If\ they\ touch\ you,\ you\ lose\!\n\ \n\ @\ Mikal\ Eddlemon\ &\ Warren\ Wright\n\ @\ May\ 12th,\ 2021\n
+comment1.params=
+comment1.target=ZombieLand()
+comment2.params=
+comment2.target=void\ prepare()
+comment2.text=\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\n
+comment3.params=count
+comment3.target=void\ addShrubs(int)
+comment4.params=count
+comment4.target=void\ addZombies(int)
+comment5.params=
+comment5.target=void\ gameOver()
+comment6.params=
+comment6.target=void\ countScore()
+comment7.params=start\ end
+comment7.target=int\ getRandomNumber(int,\ int)
+comment8.params=
+comment8.target=int\ countZombies()
+comment9.params=
+comment9.target=void\ addMoreZombies()
+numComments=10
